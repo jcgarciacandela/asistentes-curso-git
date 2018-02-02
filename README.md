@@ -1,4 +1,4 @@
 # Asistentes curso Git
-Juan Carlos García Candela
+-Juan Carlos García Candela
 
 
